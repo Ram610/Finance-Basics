@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Introduction](../financing_basics_stock_market/01_introduction/overview.md)
+1. [Introduction](./financing_basics_stock_market/01_introduction/overview.md)
 2. [Financial Statements](../financing_basics_stock_market/02_financial_statements/balance_sheet.md)
     - [Balance Sheet](../financing_basics_stock_market/02_financial_statements/balance_sheet.md)
     - [Income Statement](../financing_basics_stock_market/02_financial_statements/income_statement.md)
